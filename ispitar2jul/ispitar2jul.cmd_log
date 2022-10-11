@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/home/ise/ise_projects/ispitar2jul/ispitar2jul.xst" -ofn "/home/ise/ise_projects/ispitar2jul/ispitar2jul.syr" 
+xst -intstyle ise -ifn "/home/ise/ise_projects/ispitar2jul/ispitar2jul.xst" -ofn "/home/ise/ise_projects/ispitar2jul/ispitar2jul.syr" 
