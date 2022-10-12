@@ -1,0 +1,4 @@
+vhdtdtfi -lib work alu.vhd -prj Vezbanje16.04.2021 -o alu.spl -module alu -template /opt/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e alu.spl {/home/ise/ise_projects/Lab - 1/alu.sym} 
+vhdtdtfi -prj Vezbanje16.04.2021 -o "/home/ise/ise_projects/Lab - 1/alu.vhi" -module alu -template /opt/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work alu.vhd 
+vhdtdtfi -prj Vezbanje16.04.2021 -o "/home/ise/ise_projects/Lab - 1/alu.vhi" -module alu -template /opt/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work alu.vhd 

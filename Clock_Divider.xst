@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/Ermin/Desktop/Vezbanje/Vezbanje16.04.2021/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/Ermin/Desktop/Vezbanje/Vezbanje16.04.2021/xst"
+elaborate
+-ifn Clock_Divider.prj
+-ifmt mixed

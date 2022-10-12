@@ -1,0 +1,30 @@
+V3 16
+FL "/home/ise/ise_projects/Lab - 1/alu.vhd" 2022/04/15.15:16:51 P.20131013
+EN work/alu 1650035813 FL "/home/ise/ise_projects/Lab - 1/alu.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179 \
+      PB ieee/std_logic_arith 1381692177
+AR work/alu/Behavioral 1650035814 \
+      FL "/home/ise/ise_projects/Lab - 1/alu.vhd" EN work/alu 1650035813
+FL C:/Users/Ermin/Desktop/Vezbanje/Vezbanje16.04.2021/alu.vhd 2021/04/16.15:15:56 P.20131013
+FL C:/Users/Ermin/Desktop/Vezbanje/Vezbanje16.04.2021/Clock_Divider.vhd 2021/04/16.15:12:19 P.20131013
+EN work/Clock_Divider 1618579064 \
+      FL C:/Users/Ermin/Desktop/Vezbanje/Vezbanje16.04.2021/Clock_Divider.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/Clock_Divider/Behavioral 1618579065 \
+      FL C:/Users/Ermin/Desktop/Vezbanje/Vezbanje16.04.2021/Clock_Divider.vhd \
+      EN work/Clock_Divider 1618579064
+FL C:/Users/Ermin/Desktop/Vezbanje/Vezbanje16.04.2021/counter.vhd 2021/04/16.15:17:43 P.20131013
+EN work/counter 1618579066 \
+      FL C:/Users/Ermin/Desktop/Vezbanje/Vezbanje16.04.2021/counter.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179 \
+      PB ieee/std_logic_arith 1381692177
+AR work/counter/Behavioral 1618579067 \
+      FL C:/Users/Ermin/Desktop/Vezbanje/Vezbanje16.04.2021/counter.vhd \
+      EN work/counter 1618579066
+FL C:/Users/Ermin/Desktop/Vezbanje/Vezbanje16.04.2021/TopMod.vhd 2021/04/16.15:17:39 P.20131013
+EN work/TopMod 1618579070 \
+      FL C:/Users/Ermin/Desktop/Vezbanje/Vezbanje16.04.2021/TopMod.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/TopMod/Behavioral 1618579071 \
+      FL C:/Users/Ermin/Desktop/Vezbanje/Vezbanje16.04.2021/TopMod.vhd \
+      EN work/TopMod 1618579070 CP Clock_Divider CP counter CP alu

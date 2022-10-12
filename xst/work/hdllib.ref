@@ -1,0 +1,8 @@
+AR counter behavioral C:/Users/Ermin/Desktop/Vezbanje/Vezbanje16.04.2021/counter.vhd sub00/vhpl01 1618579067
+AR clock_divider behavioral C:/Users/Ermin/Desktop/Vezbanje/Vezbanje16.04.2021/Clock_Divider.vhd sub00/vhpl03 1618579065
+EN clock_divider NULL C:/Users/Ermin/Desktop/Vezbanje/Vezbanje16.04.2021/Clock_Divider.vhd sub00/vhpl02 1618579064
+EN counter NULL C:/Users/Ermin/Desktop/Vezbanje/Vezbanje16.04.2021/counter.vhd sub00/vhpl00 1618579066
+AR topmod behavioral C:/Users/Ermin/Desktop/Vezbanje/Vezbanje16.04.2021/TopMod.vhd sub00/vhpl05 1618579071
+EN topmod NULL C:/Users/Ermin/Desktop/Vezbanje/Vezbanje16.04.2021/TopMod.vhd sub00/vhpl04 1618579070
+AR alu behavioral "/home/ise/ise_projects/Lab - 1/alu.vhd" sub00/vhpl07 1650035814
+EN alu NULL "/home/ise/ise_projects/Lab - 1/alu.vhd" sub00/vhpl06 1650035813
