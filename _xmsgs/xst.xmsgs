@@ -5,16 +5,16 @@
      behavior or data corruption.  It is strongly advised that
      users do not edit the contents of this file. -->
 <messages>
-<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">b</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">011</arg>.
+<msg type="warning" file="HDLParsers" num="3530" delta="old" >Time stamp of file &quot;<arg fmt="%s" index="1">/home/ise/ise_projects/Lab4/brojaci.vhd</arg>&quot; is newer than current system time.
 </msg>
 
-<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">a</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">010</arg>.
+<msg type="error" file="HDLParsers" num="163" delta="old" >&quot;<arg fmt="%s" index="1">/home/ise/ise_projects/Lab4/brojaci.vhd</arg>&quot; Line <arg fmt="%d" index="2">8</arg>. Unexpected symbol read: <arg fmt="%s" index="3">{</arg>.
 </msg>
 
-<msg type="info" file="Xst" num="1767" delta="old" >HDL ADVISOR - Resource sharing has identified that some arithmetic operations in this design can share the same physical resources for reduced device utilization. For improved clock frequency you may try to disable resource sharing.
+<msg type="error" file="HDLParsers" num="164" delta="old" >&quot;<arg fmt="%s" index="1">/home/ise/ise_projects/Lab4/brojaci.vhd</arg>&quot; Line <arg fmt="%d" index="2">9</arg>. <arg fmt="%s" index="3">parse error, unexpected IDENTIFIER, expecting OPENPAR</arg>
 </msg>
 
-<msg type="info" file="Xst" num="2169" delta="old" >HDL ADVISOR - Some clock signals were not automatically buffered by XST with BUFG/BUFR resources. Please use the buffer_type constraint in order to insert these buffers to the clock signals to help prevent skew problems.
+<msg type="warning" file="HDLParsers" num="3481" delta="old" >Library <arg fmt="%s" index="1">work</arg> has no units. Did not save reference file &quot;<arg fmt="%s" index="2">xst/work/hdllib.ref</arg>&quot; for it.
 </msg>
 
 </messages>
