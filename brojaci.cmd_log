@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/home/ise/ise_projects/Lab4/brojaci.xst" -ofn "/home/ise/ise_projects/Lab4/brojaci.syr" 
+xst -intstyle ise -ifn "/home/ise/ise_projects/Lab4/brojaci.xst" -ofn "/home/ise/ise_projects/Lab4/brojaci.syr" 
